@@ -1,0 +1,38 @@
+.container {
+  text-align: center;
+  margin-top: 100px;
+  font-family: Arial, sans-serif;
+}
+
+.count {
+  font-size: 40px;
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.add {
+  background-color: green;
+  color: white;
+}
+
+.subtract {
+  background-color: red;
+  color: white;
+}
+
+.reset {
+  background-color: gray;
+  color: white;
+}
